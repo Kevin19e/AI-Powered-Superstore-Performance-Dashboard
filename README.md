@@ -109,9 +109,17 @@ The application follows a **three-layer architecture**:
 
 ## Screenshots
 
-> Add screenshots after first run:
-> - `assets/dashboard_overview.png` — Full KPI + trends view
-> - `assets/architecture.png` — System architecture diagram
+### KPI Overview & Trends
+![Dashboard Overview](assets/dashboard_overview.png)
+
+### Regional & Category Breakdown
+![Breakdown View](assets/breakdown_view.png)
+
+### Business Insights & Executive Summary
+![Insights View](assets/insights_view.png)
+
+### Risk & Anomaly Detection
+![Risk Flags View](assets/risk_flags_view.png)
 
 ## How to Run Locally
 
@@ -123,8 +131,8 @@ The application follows a **three-layer architecture**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/superstore-performance-dashboard.git
-cd superstore-performance-dashboard
+git clone https://github.com/Kevin19e/AI-Powered-Superstore-Performance-Dashboard.git
+cd AI-Powered-Superstore-Performance-Dashboard
 
 # Create a virtual environment
 python -m venv venv
